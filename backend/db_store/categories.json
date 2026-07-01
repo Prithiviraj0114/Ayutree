@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "face-care",
+    "name": "Face Care",
+    "image": "https://cdn.shopify.com/s/files/1/0815/2327/8102/collections/Screenshot_2023-11-20_170537.png?v=1700480211",
+    "_id": "2d5b15a9-b2c3-445a-bbd0-bd98636bdf1e"
+  },
+  {
+    "slug": "hair-care",
+    "name": "Hair Care",
+    "image": "https://cdn.shopify.com/s/files/1/0815/2327/8102/collections/young-brunette-with-leaves-looking-camera.jpg?v=1700481323",
+    "_id": "f6060280-e28d-4e0f-8076-42271867200f"
+  },
+  {
+    "slug": "body-care",
+    "name": "Body Care",
+    "image": "https://cdn.shopify.com/s/files/1/0815/2327/8102/collections/Screenshot_2023-11-20_163840.png?v=1700478942",
+    "_id": "69f53754-3d60-43b0-87b2-09c766e66361"
+  },
+  {
+    "slug": "soaps",
+    "name": "Soaps",
+    "image": "https://cdn.shopify.com/s/files/1/0815/2327/8102/collections/close-up-organic-soap-bars_1.jpg?v=1700541541",
+    "_id": "00d37e0a-e241-48d2-b565-86c46ca5a7d8"
+  },
+  {
+    "slug": "lip-care",
+    "name": "Lip Care",
+    "image": "https://cdn.shopify.com/s/files/1/0815/2327/8102/collections/young-beautiful-brunette-girl-tropical-plants-grey-wall.jpg?v=1700471092",
+    "_id": "3b9901e6-9de3-4089-a9f8-d80bf6188f04"
+  },
+  {
+    "slug": "eye-care",
+    "name": "Eye Care",
+    "image": "https://cdn.shopify.com/s/files/1/0815/2327/8102/collections/Screenshot_2023-11-21_100236.png?v=1700541182",
+    "_id": "e1d25ca2-cac9-4ac8-b023-e62091ba8eb3"
+  },
+  {
+    "slug": "men",
+    "name": "Men Exclusive",
+    "image": "https://cdn.shopify.com/s/files/1/0815/2327/8102/collections/pexels-behrouz-sasani-7094172_1.jpg?v=1700478608",
+    "_id": "7d717d19-beb0-4962-9df2-ab1f24ededc2"
+  },
+  {
+    "slug": "kids",
+    "name": "Kids",
+    "image": "https://cdn.shopify.com/s/files/1/0815/2327/8102/collections/pexels-daisy-laparra-826734_1.jpg?v=1700481358",
+    "_id": "73fbd510-7368-48c9-8e39-cb297fcf8cc1"
+  },
+  {
+    "slug": "foot-care",
+    "name": "Foot Care",
+    "image": "https://cdn.shopify.com/s/files/1/0815/2327/8102/collections/Screenshot_2023-11-20_161406.png?v=1700478263",
+    "_id": "2c6dc652-9e25-4924-8594-fbcb188e73b4"
+  },
+  {
+    "slug": "pain-relief",
+    "name": "Pain Relief",
+    "image": "https://cdn.shopify.com/s/files/1/0815/2327/8102/collections/oil_massage.png?v=1701943588",
+    "_id": "356dc009-0616-46f0-b907-498899c6009c"
+  }
+]

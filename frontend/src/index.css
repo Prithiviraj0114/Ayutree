@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&family=Outfit:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --ayu-bg: #F9F6F0;
+  --ayu-surface: #FFFFFF;
+  --ayu-primary: #1A3B32;
+  --ayu-primary-hover: #255045;
+  --ayu-accent: #C2A878;
+  --ayu-text: #12221C;
+  --ayu-muted: #5C6B64;
+  --ayu-border: #E8E1D5;
+}
+
+html, body {
+  background-color: var(--ayu-bg);
+  color: var(--ayu-text);
+  font-family: 'Outfit', sans-serif;
+  font-weight: 300;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+}
+
+.font-serif-display { font-family: 'Fraunces', serif; font-variation-settings: "opsz" 64, "SOFT" 50; }
+.font-body { font-family: 'Outfit', sans-serif; }
+
+::selection { background: #1A3B32; color: #F9F6F0; }
+
+/* subtle paper grain */
+.ayu-grain::before {
+  content: "";
+  position: fixed; inset: 0; pointer-events: none; z-index: 0;
+  opacity: 0.04;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+}
+
+/* marquee */
+@keyframes marqueeScroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+.marquee-track { animation: marqueeScroll 40s linear infinite; }
+
+/* shadcn vars */
+@layer base {
+  :root {
+    --background: 42 35% 95%;
+    --foreground: 153 33% 11%;
+    --card: 0 0% 100%;
+    --card-foreground: 153 33% 11%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 153 33% 11%;
+    --primary: 165 38% 17%;
+    --primary-foreground: 42 35% 95%;
+    --secondary: 38 36% 86%;
+    --secondary-foreground: 165 38% 17%;
+    --muted: 38 36% 92%;
+    --muted-foreground: 162 6% 39%;
+    --accent: 36 38% 62%;
+    --accent-foreground: 165 38% 17%;
+    --destructive: 6 47% 42%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 38 24% 87%;
+    --input: 38 24% 87%;
+    --ring: 165 38% 17%;
+    --radius: 0px;
+  }
+}
+
+@layer base {
+  * { @apply border-border; }
+  body { @apply bg-background text-foreground; }
+}
+
+/* hide scrollbar utility */
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+/* fade-in animation */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-up { animation: fadeInUp 0.8s ease-out both; }
+
+/* Fix cursor globally to prevent I-beam on non-text-inputs */
+*, *::before, *::after {
+  cursor: default !important;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+input, textarea, [contenteditable="true"], .select-text {
+  cursor: text !important;
+  user-select: auto !important;
+  -webkit-user-select: auto !important;
+}
+
+a, button, [role="button"], label, select, input[type="submit"], input[type="button"], input[type="checkbox"], input[type="radio"], .cursor-pointer {
+  cursor: pointer !important;
+}
+
+a *, button *, [role="button"] * {
+  cursor: pointer !important;
+}

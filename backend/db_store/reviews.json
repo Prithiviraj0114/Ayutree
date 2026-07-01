@@ -1,0 +1,52 @@
+[
+  {
+    "review_id": "rev_8b6959bbf4",
+    "product_id": "prod_7e66c38c4b",
+    "user_id": "admin_816f5e08",
+    "user_name": "Prithivi raj",
+    "rating": 5,
+    "comment": "nice one",
+    "created_at": "2026-06-16T21:04:00.581531+00:00",
+    "_id": "b8569bbe-e023-4e9b-bed5-d2ac400a327d"
+  },
+  {
+    "review_id": "rev_55e18c0401",
+    "product_id": "prod_7e66c38c4b",
+    "user_id": "user_ada4c22794f1",
+    "user_name": "New Feat Cust",
+    "rating": 5,
+    "comment": "TEST_review_e5a601",
+    "created_at": "2026-06-19T07:10:33.831566+00:00",
+    "_id": "e88ea45e-1eca-4094-b7da-173d9d8d1d24"
+  },
+  {
+    "review_id": "rev_65873e9fa1",
+    "product_id": "prod_7e66c38c4b",
+    "user_id": "user_f5b6e770d065",
+    "user_name": "New Feat Cust",
+    "rating": 5,
+    "comment": "TEST_review_cb338c",
+    "created_at": "2026-06-19T07:11:11.074085+00:00",
+    "_id": "45eb8c3d-6304-48a0-9ff7-c184c808264c"
+  },
+  {
+    "review_id": "rev_77d645a468",
+    "product_id": "prod_7e66c38c4b",
+    "user_id": "user_1e46e7b13b8b",
+    "user_name": "New Feat Cust",
+    "rating": 5,
+    "comment": "TEST_review_3cb0ed",
+    "created_at": "2026-07-01T19:16:54.311319+00:00",
+    "_id": "22896115-ef08-4515-9a70-adf177270669"
+  },
+  {
+    "review_id": "rev_e63f731ff8",
+    "product_id": "prod_7e66c38c4b",
+    "user_id": "user_a3345312fd1e",
+    "user_name": "New Feat Cust",
+    "rating": 5,
+    "comment": "TEST_review_ab8fd8",
+    "created_at": "2026-07-01T19:24:53.218655+00:00",
+    "_id": "41febaa1-ba99-42a6-8024-d1d74236293d"
+  }
+]

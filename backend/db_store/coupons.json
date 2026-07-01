@@ -1,0 +1,37 @@
+[
+  {
+    "code": "WELCOME10",
+    "type": "percent",
+    "value": 10,
+    "min_order": 499,
+    "max_discount": 200,
+    "active": true,
+    "description": "10% off your first order above ₹499",
+    "used_count": 0,
+    "created_at": "2026-06-07T18:36:52.467885+00:00",
+    "_id": "6496a43c-3418-4fc1-9446-21a45acdb31c"
+  },
+  {
+    "code": "AYUVEDA20",
+    "type": "percent",
+    "value": 20,
+    "min_order": 999,
+    "max_discount": 400,
+    "active": true,
+    "description": "20% off above ₹999",
+    "used_count": 0,
+    "created_at": "2026-06-07T18:36:52.471414+00:00",
+    "_id": "a2684ba0-3c52-48ba-befd-aeb4881cccda"
+  },
+  {
+    "code": "FLAT100",
+    "type": "flat",
+    "value": 100,
+    "min_order": 599,
+    "active": true,
+    "description": "Flat ₹100 off above ₹599",
+    "used_count": 0,
+    "created_at": "2026-06-07T18:36:52.473439+00:00",
+    "_id": "d584a16b-ea92-48f5-a0b1-9b6567366dac"
+  }
+]

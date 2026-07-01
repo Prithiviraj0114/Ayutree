@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+.env
+.env.*
+
+# Node
+node_modules/
+build/
+dist/
+.DS_Store
+
+# OS / IDE
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,62 @@
+[
+  {
+    "user_id": "admin_b044a5e8",
+    "items": [
+      {
+        "product_id": "prod_5af24ae172",
+        "qty": 1
+      }
+    ],
+    "_id": "db95052e-e78e-4dc3-b601-16679e87cd7c"
+  },
+  {
+    "user_id": "admin_816f5e08",
+    "items": [],
+    "_id": "b029ea75-173c-4689-a038-b65ac209c972"
+  },
+  {
+    "user_id": "user_632eccd658e9",
+    "items": [],
+    "_id": "c7342165-5090-4f4f-87af-5ec7b0cc6b83"
+  },
+  {
+    "user_id": "user_05a5bb5f9528",
+    "items": [
+      {
+        "product_id": "prod_14fdb5f37f",
+        "qty": 1
+      }
+    ],
+    "_id": "ef6253b5-0f84-4582-b475-f4cd63b70378"
+  },
+  {
+    "user_id": "user_f5b6e770d065",
+    "items": [],
+    "_id": "db72e5f1-cb72-4949-b737-69d05ea922d0"
+  },
+  {
+    "user_id": "user_bab21ad6313d",
+    "items": [],
+    "_id": "647c579b-37c4-430d-849a-f020ec59c4c2"
+  },
+  {
+    "user_id": "user_0a018942565f",
+    "items": [],
+    "_id": "96b6c402-0eb0-4765-b0cf-b71e87d3f591"
+  },
+  {
+    "user_id": "user_0bb8267d4e6c",
+    "items": [],
+    "_id": "61f1ea91-4396-429b-bf80-59ec8c89853c"
+  },
+  {
+    "user_id": "user_732453074d0f",
+    "items": [],
+    "_id": "62cc04a3-3462-4390-82a3-fdc786bd1aa4"
+  },
+  {
+    "user_id": "user_965b3139d55c",
+    "items": [],
+    "_id": "28c489b4-9a1a-4696-ad72-e0638da36590"
+  }
+]

@@ -1,0 +1,153 @@
+[
+  {
+    "user_id": "admin_b044a5e8",
+    "email": "admin@ayutree.com",
+    "name": "Ayutree Admin",
+    "password_hash": "$2b$12$jMBwPagKEEVZ0JgEVMLE7.nnT.feSGML9EF4HWVeSC2ZGnBKMrqC2",
+    "role": "admin",
+    "auth_provider": "local",
+    "created_at": "2026-06-07T18:36:52.219041+00:00",
+    "_id": "8d984106-38da-4546-9cbe-9f0b72e0d086"
+  },
+  {
+    "user_id": "admin_816f5e08",
+    "email": "prithiviraj0114@gmail.com",
+    "name": "Prithivi raj",
+    "password_hash": "$2b$12$Og/bhvP9ejElYnL9R8yAYeLgsCW8kZ5WuTleol7nKWtcDPHKGn8He",
+    "role": "admin",
+    "auth_provider": "local",
+    "created_at": "2026-06-10T02:11:50.295604+00:00",
+    "_id": "129bb4c9-11ba-45b3-ba1a-4870cb87ff14",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocK20GIqK5BfrhAbgLFmv-P2HNadmuXxdTwcIlOdV_1UYsqyUWyH=s96-c"
+  },
+  {
+    "user_id": "user_632eccd658e9",
+    "email": "rtrprithivirajkp@gmail.com",
+    "name": "Giriprasath",
+    "password_hash": "$2b$12$cJtjXvO/ncL0PFh9FAUmC.H9r0sxtQONV6Lc2fm45jwUlsGz2p8WG",
+    "role": "customer",
+    "auth_provider": "local",
+    "created_at": "2026-06-16T19:35:57.851326+00:00",
+    "_id": "be518382-76a9-4b0e-945f-f8e9c329abc7"
+  },
+  {
+    "user_id": "user_05a5bb5f9528",
+    "email": "prithiviraj.tpc@gmail.com",
+    "name": "Prithiviraj",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocIykntDiBVff6R3CgPz70S5FVTYGzmvf-_7NaaljP5uhEwcUQ=s96-c",
+    "role": "customer",
+    "auth_provider": "google",
+    "created_at": "2026-06-16T22:19:11.198204+00:00",
+    "_id": "fa904f7c-4af6-441b-9c0c-5db4a98632c0"
+  },
+  {
+    "user_id": "user_fe18caa5cb10",
+    "email": "test_new_6d987b70@ayutree.com",
+    "name": "New Feat Cust",
+    "password_hash": "$2b$12$SoPD3/GiXZ2soR7MH1w6/us0.wWHFabwN96ITnHq9j7lUb1gr31NO",
+    "role": "customer",
+    "auth_provider": "local",
+    "created_at": "2026-06-18T16:54:56.548689+00:00",
+    "_id": "c7efe965-19db-41fd-8f02-2e8143fd68a0"
+  },
+  {
+    "user_id": "user_49214a3c6a19",
+    "email": "test_new_2c8b510b@ayutree.com",
+    "name": "New Feat Cust",
+    "password_hash": "$2b$12$hfd5yTnlL2FGqLaI6Qy0auP57hSY3u6sWDjxtcdOkUOtW0zdGUfTe",
+    "role": "customer",
+    "auth_provider": "local",
+    "created_at": "2026-06-18T16:55:22.118190+00:00",
+    "_id": "dd651ea6-d210-45e8-a658-1918849be68d"
+  },
+  {
+    "user_id": "user_ada4c22794f1",
+    "email": "test_new_8f845dce@ayutree.com",
+    "name": "New Feat Cust",
+    "password_hash": "$2b$12$UJzUdbnEsQllyk/wmnI.4uC.4hiny.v310GDDOtBTmfeWTeUc9llO",
+    "role": "customer",
+    "auth_provider": "local",
+    "created_at": "2026-06-19T07:10:19.575942+00:00",
+    "_id": "c3be1c66-2b07-4474-a5c5-db752e41f72e"
+  },
+  {
+    "user_id": "user_f5b6e770d065",
+    "email": "test_new_d8b6ec79@ayutree.com",
+    "name": "New Feat Cust",
+    "password_hash": "$2b$12$eUx5sGlPwZdKYe7smv1YUuwRA8lhzfsFDxE0MrbEYMh4.OVWy3Y0O",
+    "role": "customer",
+    "auth_provider": "local",
+    "created_at": "2026-06-19T07:10:57.881445+00:00",
+    "_id": "81aa6a47-4e32-4519-84e0-eb4fc6611493"
+  },
+  {
+    "user_id": "user_bab21ad6313d",
+    "email": "test_it3_11fb15cf@ayutree.com",
+    "name": "Iter3 Cust",
+    "password_hash": "$2b$12$CeFYsInaUzBlNztKJ0zxXe3u2RRIUFut4p2qk.ypAUG75RJrpx.YS",
+    "role": "customer",
+    "auth_provider": "local",
+    "created_at": "2026-06-19T07:11:35.928718+00:00",
+    "_id": "57373f6a-5b90-4fbf-bc3e-c16bd9d613ff"
+  },
+  {
+    "user_id": "user_0a018942565f",
+    "email": "test_cust_0a8f75f3@ayutree.com",
+    "name": "Test Cust",
+    "password_hash": "$2b$12$Djlgk0dv.cgpT1m6JrEVH.PPhe./SuOG0qLD5p7FQkOD4wuJSBaJy",
+    "role": "customer",
+    "auth_provider": "local",
+    "created_at": "2026-07-01T19:16:40.597267+00:00",
+    "_id": "7ddee293-fc05-4b91-9936-b010925f0dc7"
+  },
+  {
+    "user_id": "user_0bb8267d4e6c",
+    "email": "test_it3_9b522e7c@ayutree.com",
+    "name": "Iter3 Cust",
+    "password_hash": "$2b$12$4xNZA5Xr5QTQmZ3sDwivTe.CCv3CoouO1VOQv9aM0owpzqTVVrB9u",
+    "role": "customer",
+    "auth_provider": "local",
+    "created_at": "2026-07-01T19:16:43.662526+00:00",
+    "_id": "af2720e5-2ec5-4cb4-8715-a4441a0182e3"
+  },
+  {
+    "user_id": "user_1e46e7b13b8b",
+    "email": "test_new_6f4a7482@ayutree.com",
+    "name": "New Feat Cust",
+    "password_hash": "$2b$12$2X.Pa/im8DTamnUygYNE2OhqCQe3Jqhw8SWVN7N82UD060iWW2tkK",
+    "role": "customer",
+    "auth_provider": "local",
+    "created_at": "2026-07-01T19:16:44.443675+00:00",
+    "_id": "81fc344f-259c-4572-8d09-fb6f4452270c"
+  },
+  {
+    "user_id": "user_732453074d0f",
+    "email": "test_cust_00440bd5@ayutree.com",
+    "name": "Test Cust",
+    "password_hash": "$2b$12$I85PHLoXBUyYEprnBhxg1On0RsQtbUQBiuS/KClUtysa7OjXHr6CW",
+    "role": "customer",
+    "auth_provider": "local",
+    "created_at": "2026-07-01T19:24:48.079095+00:00",
+    "_id": "3e873661-6cba-4817-b265-34ad3f7412af"
+  },
+  {
+    "user_id": "user_965b3139d55c",
+    "email": "test_it3_83434f77@ayutree.com",
+    "name": "Iter3 Cust",
+    "password_hash": "$2b$12$jTXEFDfM9lGOLtobdRonReWQh6a6lxcZE7rWf/xFKctFoXHOubxH.",
+    "role": "customer",
+    "auth_provider": "local",
+    "created_at": "2026-07-01T19:24:51.184250+00:00",
+    "_id": "0f5ebeab-b73b-4a82-b2af-f0bf21706ec9"
+  },
+  {
+    "user_id": "user_a3345312fd1e",
+    "email": "test_new_114a9efa@ayutree.com",
+    "name": "New Feat Cust",
+    "password_hash": "$2b$12$zuco2NKW7M235ioWbC6l/OYJVzsUOhfpNm6GHDKJKbL2fu8OIwAcG",
+    "role": "customer",
+    "auth_provider": "local",
+    "created_at": "2026-07-01T19:24:51.948702+00:00",
+    "_id": "693e1688-a47e-456b-b63a-f31a2fc8afed"
+  }
+]
